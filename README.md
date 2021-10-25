@@ -11,8 +11,8 @@ About 400,000 adults die of heart failure (HF) in the United States every year. 
 - Principle component analysis<br>
 
 **II. Heart failure prediction** <br>
-- Function for splitting dataset into the test set and training set<br>
-- Function for model evaluation<br>
+- Splitting dataset into the test set and the training set<br>
+- Model evaluation<br>
 - Accuracy score, precision score, recall score, and f1 score for all the machine learning models<br>
 - Random forest and decision tree predictions<br>
     
